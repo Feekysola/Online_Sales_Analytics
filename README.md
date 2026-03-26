@@ -6,9 +6,7 @@ This repository document a two-phase end-to-end data analysis of a large-scale O
 
 ## 📂 Project Structure & Objectives
 
-### [📍 Phase 1: Data Cleaning & Business Insights](./Online_Sales_Analytics/Task 1
-/Readme.md
-)]
+### [📍 Phase 1: Data Cleaning & Business Insights](./Task_1_Online_Sales_Analytics/README.md)]
 **Primary Objective:** To transform a raw dataset of 500k+ records into a validated "Single Source of Truth" and answer core business performance questions.
 * **Key Focus:** Data integrity, handling missing values, and identifying top-tier revenue drivers (Customers, Countries, and Seasons).
 * **Final Cleaned Dataset:** 392,733 records.
