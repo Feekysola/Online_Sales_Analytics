@@ -11,7 +11,7 @@ This repository document a two-phase end-to-end data analysis of a large-scale O
 * **Key Focus:** Data integrity, handling missing values, and identifying top-tier revenue drivers (Customers, Countries, and Seasons).
 * **Final Cleaned Dataset:** 392,733 records.
 
-### [📊 Phase 2: Statistical Exploratory Data Analysis (EDA)](./Task_2_Folder_Name/README.md)
+### [📊 Phase 2: Statistical Exploratory Data Analysis (EDA)](https://github.com/Feekysola/Online_Sales_Analytics/blob/main/Task%202/Readme.md)
 **Primary Objective:** To perform a deep-dive statistical validation of the data to uncover hidden relationships and behavioral patterns.
 * **Key Focus:** Distribution analysis, outlier detection (The "Whale" Effect), and correlation testing between Quantity, Price, and Revenue.
 * **Core Finding:** Identified a **0.91 Pearson Correlation** between Quantity and Revenue.
