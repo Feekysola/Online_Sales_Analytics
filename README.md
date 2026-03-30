@@ -21,7 +21,7 @@ This repository documents a multi-phase end-to-end data analysis of a large-scal
 * **Key Focus:** Implementing a **Linear Regression model** to predict revenue.
 * **Core Finding:** The model achieved an **$R^2$ score of 0.73**, proving that quantity is a statistically reliable predictor of total income.
 
-### [📈 Phase 4: Time Series Analysis & Decomposition](https://github.com/Feekysola/Online_Sales_Analytics/blob/main/Task%204/ReadMe.md)
+### [📈 Phase 4: Time Series Analysis & Decomposition](https://github.com/Feekysola/Online_Sales_Analytics/blob/main/Task4/Readme.md)
 **Primary Objective:** To isolate long-term growth trends from recurring seasonal habits and identify peak operational windows.
 * **Key Focus:** Statistical decomposition (Trend, Seasonality, Residuals) and Daily Revenue Habit tracking.
 * **Core Finding:** Identified a stable **4-month seasonal cycle** with a predictable +10k/-20k unit variance and confirmed **Thursday** as the primary revenue driver.
