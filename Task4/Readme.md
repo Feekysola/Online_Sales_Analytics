@@ -8,7 +8,7 @@ The goal of this task was to move beyond static data and analyze how revenue cha
 ## 📊 1. Daily Revenue & 7-Day Smoothing
 To handle the high volatility of daily sales, I applied a **7-Day Moving Average**. This "smooths" out the daily noise to reveal the true direction of the business.
 
-![Daily Revenue Trend](Daily%20revenue%20chart.png)
+![Daily Revenue Trend](Task4/images/Daily revenue chart.png)
 
 * **Insight:** The red line (Moving Average) shows that while daily sales jump around, the business experienced a significant and sustained "climb" starting in September 2011.
 
