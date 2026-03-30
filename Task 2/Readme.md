@@ -27,6 +27,14 @@ To understand what truly drives the bottom line, I analyzed the relationship bet
 
 ![Quantity vs Revenue](./Scatter%20Plot.png)
 
+### 4. Predictive Modeling: Linear Regression
+Building on the high correlation identified above, I implemented a **Linear Regression model** to mathematically forecast revenue based on quantity sold.
+
+![Quantity vs Revenue Regression](./Regression%20chart.png)
+
+* **Model Performance:** The model achieved an **$R^2$ Score of 0.73**, meaning it explains 73% of the variance in revenue.
+* **Insight:** The "Prediction Line" confirms that quantity is a reliable predictor of total income, providing a solid baseline for future financial forecasting.
+
 ---
 
 ## 💡 Strategic Recommendations
@@ -37,7 +45,7 @@ To understand what truly drives the bottom line, I analyzed the relationship bet
 ---
 
 ## 🚀 Future Work
-These statistical foundations—specifically the linear relationship identified in the scatter plot—provide the necessary validation to move into **Level 2: Predictive Modeling (Linear Regression)**.
+These statistical foundations—specifically the linear relationship and $R^2$ results—provide the necessary validation to move into **Task 4: Time Series Analysis**, where I will analyze how these trends evolve seasonally.
 
 ---
 [⬅️ Back to Main Project Page](../README.md)
