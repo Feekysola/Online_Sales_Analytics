@@ -8,7 +8,7 @@ The goal of this task was to move beyond static data and analyze how revenue cha
 ## 📊 1. Daily Revenue & 7-Day Smoothing
 To handle the high volatility of daily sales, I applied a **7-Day Moving Average**. This "smooths" out the daily noise to reveal the true direction of the business.
 
-![Daily Revenue Trend](Task4/images/Daily revenue chart.png)
+![Daily Revenue Trend](images/Daily%20revenue%20chart.png)
 
 * **Insight:** The red line (Moving Average) shows that while daily sales jump around, the business experienced a significant and sustained "climb" starting in September 2011.
 
@@ -17,7 +17,7 @@ To handle the high volatility of daily sales, I applied a **7-Day Moving Average
 ## 🔍 2. Seasonal Decomposition
 Using the `statsmodels` library, I decomposed the revenue into four distinct components:
 
-![Time Series Decomposition](Decompose%20chart.png)
+![Time Series Decomposition](images/Decompose%20chart.png)
 
 ### **Key Component Insights:**
 * **Trend:** Confirms a strong upward trajectory toward the end of the year, proving the business is expanding.
@@ -29,7 +29,7 @@ Using the `statsmodels` library, I decomposed the revenue into four distinct com
 ## 🗓️ 3. Weekly Revenue Habits
 I analyzed the total revenue based on the day of the week to identify peak shopping periods.
 
-![Total Revenue by Day](total%20revenue%20by%20day.png)
+![Total Revenue by Day](images/total%20revenue%20by%20day.png)
 
 * **Peak Day:** **Thursday** is the clear winner, driving nearly **2 Million** in total revenue.
 * **The Saturday Gap:** There is zero recorded revenue for Saturdays. This suggests either a data recording issue or that the business does not process orders on that day—representing a massive growth opportunity.
